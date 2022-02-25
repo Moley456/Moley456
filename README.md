@@ -1,11 +1,12 @@
 ## Hi, I'm Xing Wei 👋
 
 
-👦 Find out more about me: [Portfolio]()
+👦 More about me: [Portfolio](https://moley456.github.io/)
 
 📫 How to reach me: [kingstarwei10@gmail.com](mailto:kingstarwei10@gmail.com)
 
-📄 Learn about my experiences: [Resume]()
+📄 My experiences: [Resume](https://moley456.github.io/assets/pdf/OngXingWei_Resume.pdf)
+
 
 #### Skills
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-Red/?logo=Javascript)
