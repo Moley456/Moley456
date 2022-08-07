@@ -17,5 +17,3 @@
 #### Tools
 ![Git](https://img.shields.io/badge/Tools-Git-Red/?logo=Git)
 ![Figma](https://img.shields.io/badge/Tools-Figma-Red/?logo=Figma)
-
-[![Moley456's GitHub stats](https://github-readme-stats.vercel.app/api?username=moley456&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
